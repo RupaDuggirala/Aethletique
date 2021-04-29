@@ -1,0 +1,70 @@
+body {
+	margin: 0px;
+	/**background-image: url("../img/clouds.jpg");
+	background-image: url("../img/background.jpg");**/
+	background-position: center;
+	background-size: cover;
+	background-color: black;
+	font-family: 'Bangers';
+}
+
+h1 {
+	position: relative;
+	top: 100px;
+	font-size: 18em;
+	text-align: center;
+	margin: 150px;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	font-weight: 400;
+	color: rgb(254, 255, 252);
+}
+
+.title {
+	color: #2a6daa;
+		background: -webkit-linear-gradient(transparent, transparent), url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/191814/blue_glitter.gif) repeat;
+		background: -o-linear-gradient(transparent, transparent) !important;
+		background-clip: text !important;
+		-webkit-text-fill-color: transparent !important;
+		margin: 0;
+		padding: 0;
+	
+		font-weight: 900;
+		width: 100%;
+		text-align: center;
+		letter-spacing: 1px;
+		z-index: 999999;
+		-webkit-background-clip: text;
+	}
+  
+  body {
+	margin: 2rem;
+  }
+  
+
+  .button {
+	position: absolute;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	color: rgb(254, 255, 252);
+	/*background: rgb(91, 136, 197);*/
+	background: #2a6daa;
+	padding: 10px;
+	letter-spacing: 3px;
+	text-align: center;
+	transition: 0.3s;
+}
+
+.button:hover {
+	cursor: pointer;
+	/*background: rgb(91, 136, 197);*/
+	background: #2a6daa;
+	transform: rotate(-5deg);
+}
+
+#design-responses {
+	top: 500px;
+	left: 44%;
+	justify-content: center;
+}  

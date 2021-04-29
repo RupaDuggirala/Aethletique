@@ -1,0 +1,181 @@
+body {
+	margin: 0px;
+	/**background-image: url("../img/clouds.jpg");
+	background-image: url("../img/background.jpg");**/
+	background-position: center;
+	background-size: cover;
+	background-color: black;
+	font-family: 'Bangers';
+}
+
+#title {
+	font-size: 6em;
+	text-align: center;
+	margin: 30px;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	font-weight: 400;
+	color: rgb(254, 255, 252);
+}
+
+#drake-container {
+	position: relative;
+	width: 500px;
+	height: 450px;
+	margin: 0 auto;
+}
+
+#selection-container {
+	position: absolute;
+	text-align: left;
+	top: 100px;
+	padding: 100px;
+}
+
+#selection-container .caption {
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	font-weight: 400;
+	color: rgb(254, 255, 252);
+	font-size: 1.5em;	
+}
+
+.outfit-selection {
+	cursor: pointer;
+	height: 100px;
+	margin: 10px;
+}
+
+.outfit-selection:hover {
+	opacity: 0.6;
+}
+
+#head {
+	z-index: 100;
+	position: absolute;
+	height: 170px;
+	top: 65px;
+	left: 160px;
+	transition: 1s;
+}
+
+#body {
+	position: absolute;
+	height: 700px;
+	top: 40px;
+	left: 100px;
+}
+
+.outfit {
+	z-index: 10;
+	position: absolute;
+	display: none;
+}
+
+#s1:hover {
+	transition: .2s;
+	transform: scale(0.7);
+}
+
+#o1 {
+	/**left: 95px;
+	top: 190px;
+	height: 400px;**/
+	height: 700px;
+	top: 40px;
+	left: 100px;
+}
+
+#s2:hover {
+	transition: .2s;
+	transform: scale(0.85);
+}
+
+#o2 {
+	/**top: 220px;
+	height: 370px;
+	left: 80px;**/
+	height: 700px;
+	top: 40px;
+	left: 100px;
+}
+
+#s3:hover {
+	transition: .2s;
+	transform: scale(1.0);
+}
+
+#o3 {
+	/**height: 380px;
+	top: 210px;
+	left: 95px;**/
+	height: 700px;
+	top: 40px;
+	left: 100px;
+}
+
+#s4:hover {
+	transition: .2s;
+	transform: scale(1.15);
+}
+
+#o4 {
+	/**height: 340px;
+	top: 220px;
+	left: 93px;**/
+	height: 700px;
+	top: 40px;
+	left: 100px;
+}
+
+#s5:hover {
+	transition: .2s;
+	transform: scale(1.3);
+}
+
+#o5 {
+	/**height: 370px;
+	top: 215px;
+	left: 85px;**/
+	height: 700px;
+	top: 40px;
+	left: 100px;
+}
+
+.button {
+	position: absolute;
+	font-size: 2em;
+	text-transform: uppercase;
+	color: rgb(254, 255, 252);
+	/*background: rgb(91, 136, 197);*/
+	background: #2a6daa;
+	padding: 10px;
+	letter-spacing: 3px;
+	text-align: center;
+	transition: 0.3s;
+}
+
+.button:hover {
+	cursor: pointer;
+	/*background: rgb(91, 136, 197);*/
+	background: #2a6daa;
+	transform: rotate(-5deg);
+}
+
+#strip-button {
+	right: 10%;
+	bottom: 40%;
+
+}
+
+#cart-button {
+	right: 10%;
+	bottom: 28%;
+}
+
+#next-button {
+	right: 10%;
+	bottom: 16%;
+}
+
