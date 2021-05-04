@@ -17,5 +17,6 @@ This GitHub repo contains the following: <br>
     * We've outlined the startup idea and the overall technical design + architecture of the platform.
 
 ## Additional Links
+* [Demo Video](https://drive.google.com/file/d/1QaZmYHQi_U9Gc5NkfkV3VXXd48kLZ9Zu/view?usp=sharing)
 * [Pitch Deck](https://docs.google.com/presentation/d/177YHdImFo1590fdObTXjH8N6A9GtAhAYwRnmo0A6DkI/edit?usp=sharing)
 * [Innovation Navigator](https://docs.google.com/presentation/d/1DC4jcleZCP3pATegBKgrPBBZJCYgXd40AZp3LRZUH9M/edit?usp=sharing)
