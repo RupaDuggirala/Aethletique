@@ -1,7 +1,7 @@
 <h1 align="center">Aethletique</h1>
 
 <p align="center">
-    This project is a startup idea, initially built for IEOR 190E: Innovation-X Future of Industry Startup Lab. <br> It was created in Spring 2021 by Rupa Duggirala and Amrita Bhasin. </p>
+    This project is a startup idea, initially built for IEOR 190E: Innovation-X Future of Industry Startup Lab. <br> It was first created in Spring 2021 by Rupa Duggirala and Amrita Bhasin. </p>
     
 <p align="center">
   <img src="assets/img/logo.png" width="800" height="260"/>
