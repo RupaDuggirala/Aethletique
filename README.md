@@ -17,5 +17,5 @@ This GitHub repo contains the following: <br>
     * We've outlined the startup idea and the overall technical design + architecture of the platform.
 
 ## Additional Links
-* [Demo Video](https://drive.google.com/file/d/1Wx_BqMDL_Zc0_iHIj0bzIf_9pcdpvTA4/view?usp=sharing)
+* [Prototype Demo](https://drive.google.com/file/d/1Wx_BqMDL_Zc0_iHIj0bzIf_9pcdpvTA4/view?usp=sharing)
 * [Lululemon Pitch Deck](https://docs.google.com/presentation/d/1d_3R_XLWGs_FD1OJKHNYKwEzg92TvJ7oC7pMY0uI3rQ/edit?usp=sharing)
